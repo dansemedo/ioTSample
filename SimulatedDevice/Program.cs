@@ -13,8 +13,8 @@ namespace SimulatedDevice
     {
 
         static DeviceClient deviceClient;
-        static string iotHubUri = "hubsemedo.azure-devices.net";
-        static string deviceKey = "TNERQVL//o7DEadQDhXnU/Tl8Ljjyjc1iOi9aeuOb9w=";
+        static string iotHubUri = "<your_iot_HUB_URI>";
+        static string deviceKey = "<your_device_key>";
 
         static void Main(string[] args)
         {
